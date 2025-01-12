@@ -3,7 +3,10 @@
 return {
     
     ['conditon'] = {
-
+        label = "",
+        symptoms = {
+            '', '', '', ''
+        }
     },
     
 }
